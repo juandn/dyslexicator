@@ -1,5 +1,5 @@
 # dyslexicator
-Small script to dyslexicate a text
+Small script to "dyslexicate" a text
 
 The script reads the FILE and shuffles all the letters between the first and the last, then writes them to a new file called dyslexed_FILE.
 
